@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/selenium-server-4.0.0-beta-3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/HoaiLeu/Mentor Automation/selenium-server-standalone-3.141.59.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
